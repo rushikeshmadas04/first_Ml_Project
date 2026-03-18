@@ -17,7 +17,7 @@ ________________________________________
 ________________________________________
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/student-performance-predictor.git
+git clone https://github.com/rushikeshmadas04/first_Ml_Project.git
 cd student-performance-predictor
 2️⃣ Create virtual environment
 python -m venv venv
